@@ -1,0 +1,4 @@
+com\granja\gestionavicola\controllers\TaskController.class
+com\granja\gestionavicola\dao\TaskDAO.class
+com\granja\gestionavicola\models\Task.class
+com\granja\gestionavicola\services\TaskService.class
